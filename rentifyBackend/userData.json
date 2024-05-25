@@ -1,0 +1,10 @@
+{
+    "userData": {
+        "Adithya":{"password":"$2b$05$u.GQLIdGJ2gFOmLJrK1.B.nY83h6eymoJ1TP.bt/yJX38pGSSXqRS","firstName":"Adithya","lastName":"Kumar",
+        "phNumber":"1234567890","email":"shadow2yburner@proton.me"},
+        "Svarog":{"password":"$2b$05$FVsVdBv5AVIYriB0y7UR2eynWj5tulj7JemN3oJjyNGqpxCikJ/mm","firstName":"Svarag","lastName":"Kumar",
+        "phNumber":"1234567890","email":"priyayogesh98@gmail.com"},
+        "SAM":{"password":"$2b$05$qfkUtOIb4KFaO1yms1035.Y9mDK/WQAcRKsERPPo4P4kfvVTp1fcu","firstName":"SAM","lastName":"Kumar",
+        "phNumber":"1234567890","email":"priyayogesh98@gmail.com"}
+    }
+}
